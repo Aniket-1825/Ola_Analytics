@@ -128,7 +128,7 @@ The `.pbix` file contains an interactive dashboard with the following views:
 Data Analyst | SQL · Python · Power BI
 📍 Ahmedabad, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/[YOUR-LINKEDIN])
+[![LinkedIn]([www.linkedin.com/in/aniket-rathod-66b907372])
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/Aniket-1825)
 
 ---
